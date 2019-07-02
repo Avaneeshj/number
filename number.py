@@ -1,4 +1,4 @@
-number=int(input("Enter a random number:"))
+number=int(input(""))
 if(number>0):
     print("Positive")
 elif(number<0):
